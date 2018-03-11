@@ -1,0 +1,6 @@
+.idea
+generated-*
+test-classes
+target
+Test*
+*.log
