@@ -4,3 +4,4 @@ test-classes
 target
 Test*
 *.log
+*.iml
